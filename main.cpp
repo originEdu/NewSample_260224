@@ -19,8 +19,8 @@ int main()
 	cout << Money << endl;
 
 	//배열 스타트
-	int MoneyArray[10] = {0}; // Money
-						 //    [0][1][2][3][4][5][6][7][8][9] Money에서부터 얼마만큼 떨어져있는가
+	int MoneyArray[10] = {0}; // MoneyArray
+						 //    [0][1][2][3][4][5][6][7][8][9] MoneyArray에서부터 얼마만큼 떨어져있는가
 	MoneyArray[0] = 10; //시작위치에서 0만큼 떨어진 곳에 10 대입
 	MoneyArray[1] = 2;  //시작위치에서 1만큼 떨어진 곳에 2 대입
 
